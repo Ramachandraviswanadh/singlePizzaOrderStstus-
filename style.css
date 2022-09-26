@@ -1,0 +1,22 @@
+.main-wrapper{
+	margin: 20px auto;
+	width: 600px;
+	text-align: center;
+  
+}
+
+.order-status-wrapper {
+	padding: 20px;
+	margin-top: 10px;
+	background-color: rgb(63, 42, 42);
+	border-radius: 10px;
+}
+
+.order-status-block {
+	width: 100%;
+	margin: 10px 0;
+	pointer-events: none;
+}
+#order-no-display{
+    color: beige;
+}
